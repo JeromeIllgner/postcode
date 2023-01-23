@@ -1,4 +1,4 @@
-module github.com/adrg/postcode
+module github.com/JeromeIllgner/postcode
 
 go 1.14
 
