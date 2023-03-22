@@ -1,4 +1,4 @@
-module github.com/JeromeIllgner/postcode
+module github.com/jeromeillgner/postcode
 
 go 1.14
 
